@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+      "module": "system",
+      "lib": ["es2017", "dom"],
+    },
+    "include": [
+      "waddle_geoportal/static-ngeo/js/**/*.js",
+    ],
+}
